@@ -20,10 +20,16 @@
   "homepage": "https://github.com/ayush-0192/Distributed-RateLimiter#readme",
   "dependencies": {
     "class-transformer": "^0.5.1",
-    "class-validator": "^0.15.1",
+    "class-validator": "^0.14.4",
     "dotenv": "^18.0.9",
     "express": "^4.21.1",
     "reflect-metadata": "^0.2.2",
     "routing-controllers": "^0.10.4"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.25",
+    "@types/node": "^26.6.6",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
   }
 }
