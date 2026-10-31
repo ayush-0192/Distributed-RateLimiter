@@ -17,5 +17,13 @@
   "bugs": {
     "url": "https://github.com/ayush-0192/Distributed-RateLimiter/issues"
   },
-  "homepage": "https://github.com/ayush-0192/Distributed-RateLimiter#readme"
+  "homepage": "https://github.com/ayush-0192/Distributed-RateLimiter#readme",
+  "dependencies": {
+    "class-transformer": "^0.5.1",
+    "class-validator": "^0.15.1",
+    "dotenv": "^18.0.9",
+    "express": "^4.21.1",
+    "reflect-metadata": "^0.2.2",
+    "routing-controllers": "^0.10.4"
+  }
 }
