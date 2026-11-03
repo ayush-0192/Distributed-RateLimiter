@@ -1,4 +1,4 @@
-import { useContainer } from "class-validator";
+import { useContainer } from "routing-controllers";
 import Container from "typedi";
 
 export function configureContainer() {
